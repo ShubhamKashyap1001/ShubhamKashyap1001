@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Next.js API Routes-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hono-FD4D4D?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
@@ -56,6 +55,9 @@
   </a>
   <a href="https://www.codechef.com/users/shubhamkr32" target="_blank">
     <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codechef logo"  />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/shubhamkashyap12?tab=activity" target="_blank">
+    <img src="https://geeksforgeeks.org" width="200" alt="GeeksforGeeks Logo"" height="35" alt="GeeksforGeeks logo"  />
   </a>
 </div>
 
