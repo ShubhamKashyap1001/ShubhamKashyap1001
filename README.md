@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm  Shubham Kumar</h1>
+<!-- <h1 align="center">👋 Hi, I'm  Shubham Kumar</h1>
 
 
 
@@ -68,4 +68,125 @@
 
 ###
 
-<p align="center">✨ Thanks for visiting!</p>
+<p align="center">✨ Thanks for visiting!</p> -->
+
+## 🛠 Tech Stack
+
+### 💻 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+</p>
+
+### 🤖 AI, GenAI & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+### 🧠 AI & Data Science
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,redis" />
+</p>
+
+### ☁️ DevOps, Cloud & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,aws,postman,vscode" />
+</p>
+
+### 🔧 Other Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=prisma,npm,arduino" />
+</p>
+
+---
+
+## 🚀 What I Build
+
+* 🌐 **Full Stack Web Applications** using React, Next.js, Node.js & modern APIs
+* 🤖 **Generative AI Applications** powered by LLMs
+* 🧩 **Agentic AI Systems** with autonomous AI agents and tool calling
+* 📚 **RAG Applications** for intelligent document-based question answering
+* 🧠 **Machine Learning Models** for prediction, classification & data analysis
+* 🐍 **Python AI/ML Backends** using FastAPI and modern ML libraries
+* ☁️ **Cloud-ready Applications** with databases, APIs and scalable deployments
+* 🔌 **IoT + AI Solutions** combining hardware, sensors and intelligent software
+
+---
+
+## 🧠 AI & GenAI Focus
+
+```text
+Generative AI
+     │
+     ├── LLMs
+     ├── Prompt Engineering
+     ├── RAG
+     ├── Embeddings
+     ├── Vector Databases
+     └── AI Agents
+              │
+              ├── Tool Calling
+              ├── Multi-Agent Systems
+              ├── Agent Workflows
+              └── Autonomous Task Execution
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
