@@ -1,82 +1,14 @@
-<!-- <h1 align="center">👋 Hi, I'm  Shubham Kumar</h1>
+## 🛠 Tech Stack
 
+### 💻 Frontend
 
-
-<p align="center">
-  Full Stack Developer  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" />
 </p>
+
+**HTML • CSS • JavaScript • TypeScript • React • Next.js • Redux • Tailwind CSS**
 
 ---
-
-## 🛠 Tech Stack
-
-### 💻 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chakra UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next.js API Routes-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-</p>
-
-### 🗄️ DevOps, Databases & Tools
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-
-###  Social Links
-
-<div align="left">
-  <!-- Social Links -->
-  <a href="mailto:shubh9142996613@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/shubham-kumar-5679b4332/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-
-  <!-- Coding Platforms -->
-  <a href="https://leetcode.com/u/Shubham_Kumar_12/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
-  </a>
-  <a href="https://www.codechef.com/users/shubhamkr32" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codechef logo"  />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/shubhamkashyap12?tab=activity" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="35" alt="geeksforgeeks logo" />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<!-- <img src="https://raw.githubusercontent.com/ShubhamKashyap1001/ShubhamKashyap1001/output/snake-dark.svg" alt="Snake animation dark" /> -->
-
-
-###
-
-<p align="center">✨ Thanks for visiting!</p> -->
-
-## 🛠 Tech Stack
-
-### 💻 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" />
-</p>
 
 ### ⚙️ Backend
 
@@ -84,30 +16,49 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
 </p>
 
-### 🤖 AI, GenAI & Machine Learning
+**Node.js • Express.js • Python • FastAPI • REST APIs**
+
+---
+
+### 🤖 GenAI & Agentic AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Generative%20AI-GenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-AI%20Agents-00A67E?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6A1B9A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-Agent%20Framework-1C3C3C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-Agent%20Workflows-1C3C3C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-LLM-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector%20Database-AI%20Search-4285F4?style=for-the-badge&logoColor=white" />
+</p>
+
+**Generative AI • Agentic AI • AI Agents • LLMs • RAG • Prompt Engineering • Embeddings • Vector Databases • Tool Calling • AI Workflows**
+
+---
+
+### 🧠 Machine Learning & Data Science
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-FF6F00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
 </p>
 
-### 🧠 AI & Data Science
+**Python • NumPy • Pandas • Scikit-Learn • TensorFlow • PyTorch • Data Analysis • Data Visualization • ML Algorithms**
 
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-</p>
+---
 
 ### 🗄️ Databases
 
@@ -115,71 +66,97 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,redis" />
 </p>
 
-### ☁️ DevOps, Cloud & Tools
+**MongoDB • MySQL • PostgreSQL • Supabase • Redis**
+
+---
+
+### ☁️ DevOps, Databases & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,aws,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,aws,postman,vscode,npm" />
 </p>
+
+**Git • GitHub • Docker • Vercel • AWS • Postman • VS Code • npm**
+
+---
 
 ### 🔧 Other Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=prisma,npm,arduino" />
+  <img src="https://skillicons.dev/icons?i=prisma,arduino" />
 </p>
+
+**Prisma • Arduino • IoT • REST APIs**
 
 ---
 
 ## 🚀 What I Build
 
-* 🌐 **Full Stack Web Applications** using React, Next.js, Node.js & modern APIs
-* 🤖 **Generative AI Applications** powered by LLMs
-* 🧩 **Agentic AI Systems** with autonomous AI agents and tool calling
-* 📚 **RAG Applications** for intelligent document-based question answering
-* 🧠 **Machine Learning Models** for prediction, classification & data analysis
-* 🐍 **Python AI/ML Backends** using FastAPI and modern ML libraries
-* ☁️ **Cloud-ready Applications** with databases, APIs and scalable deployments
-* 🔌 **IoT + AI Solutions** combining hardware, sensors and intelligent software
+* 🌐 **Full Stack Applications** — React, Next.js, Node.js & modern APIs
+* 🤖 **Generative AI Applications** — LLM-powered intelligent applications
+* 🧠 **Agentic AI Systems** — AI agents, tool calling & autonomous workflows
+* 📚 **RAG Applications** — Intelligent document search and question answering
+* 🐍 **Python AI/ML Applications** — Machine learning and AI backends
+* 📊 **Machine Learning Solutions** — Prediction, classification & data analysis
+* 🔌 **IoT + AI Solutions** — Smart hardware integrated with intelligent software
+* ☁️ **Cloud Applications** — Scalable applications with modern cloud infrastructure
 
 ---
 
-## 🧠 AI & GenAI Focus
+## 🧠 AI Engineering
 
 ```text
-Generative AI
-     │
-     ├── LLMs
-     ├── Prompt Engineering
-     ├── RAG
-     ├── Embeddings
-     ├── Vector Databases
-     └── AI Agents
-              │
-              ├── Tool Calling
-              ├── Multi-Agent Systems
-              ├── Agent Workflows
-              └── Autonomous Task Execution
+                         ┌─────────────────┐
+                         │   Generative AI  │
+                         └────────┬────────┘
+                                  │
+             ┌────────────────────┼────────────────────┐
+             │                    │                    │
+             ▼                    ▼                    ▼
+          LLMs                   RAG              AI Agents
+             │                    │                    │
+             ▼                    ▼                    ▼
+       Prompting             Embeddings          Tool Calling
+                                  │                    │
+                                  ▼                    ▼
+                         Vector Databases       Agent Workflows
+                                                       │
+                                                       ▼
+                                                Autonomous AI
 ```
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&hide_border=true" width="95%" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353" height="180"/>
+</p>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
+
+---
+
+## 🔗 Social Links
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
@@ -189,4 +166,3 @@ Generative AI
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
