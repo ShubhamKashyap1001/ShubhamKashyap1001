@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Shubham Raj
+# 👋 Hi, I'm Shubham Kumar
 
 ### Full Stack Developer • GenAI & Agentic AI • ML & Python Developer
 
