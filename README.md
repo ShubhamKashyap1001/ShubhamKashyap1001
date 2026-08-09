@@ -24,7 +24,6 @@ Building modern web applications, intelligent AI systems and real-world software
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-**HTML5 • CSS3 • JavaScript • TypeScript • React • Next.js • Tailwind CSS**
 
 ---
 
@@ -39,7 +38,6 @@ Building modern web applications, intelligent AI systems and real-world software
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
-**Node.js • Express.js • Python • FastAPI • REST APIs • JWT Authentication**
 
 ---
 
@@ -56,7 +54,6 @@ Building modern web applications, intelligent AI systems and real-world software
 <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logoColor=white" />
 </p>
 
-**Generative AI • Agentic AI • LLMs • AI Agents • RAG • LangChain • LangGraph • Prompt Engineering • Embeddings**
 
 ---
 
@@ -71,7 +68,6 @@ Building modern web applications, intelligent AI systems and real-world software
 <img src="https://img.shields.io/badge/Deep_Learning-FF5722?style=for-the-badge&logoColor=white" />
 </p>
 
-**Python • NumPy • Pandas • Scikit-Learn • Machine Learning • Deep Learning**
 
 ---
 
@@ -84,7 +80,6 @@ Building modern web applications, intelligent AI systems and real-world software
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
-**PostgreSQL • MySQL • MongoDB • Supabase • Redis**
 
 ---
 
@@ -103,7 +98,6 @@ Building modern web applications, intelligent AI systems and real-world software
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
 
-**Git • GitHub • Docker • AWS • Vercel • Kubernetes • Prisma • Postman • VS Code • npm**
 
 ---
 
@@ -115,7 +109,6 @@ Building modern web applications, intelligent AI systems and real-world software
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
-**Arduino • IoT • GitHub Actions • API Integration**
 
 ---
 
